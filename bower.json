@@ -1,0 +1,21 @@
+{
+    "name": "django-ucf-search",
+    "version": "v1.0.0",
+    "homepage": "https://github.com/UCF/django-ucf-search",
+    "authors": [
+        "UCF Web Communications"
+    ],
+    "license": "MIT",
+    "private": true,
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "src/components",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+        "bootstrap-sass-official": "~3.3.5",
+        "font-awesome": "~4.4.0"
+    }
+}
